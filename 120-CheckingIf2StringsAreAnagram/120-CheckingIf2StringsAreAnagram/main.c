@@ -34,7 +34,7 @@ int main() {
     if (isAnagram(s1, s2)) printf("is Anagram\n");
     else printf("is NOT Anagram\n");
     
-    char s3[] = "tenzzing";
+    char s3[] = "tenzing";
     char s4[] = "tenzzing";
     if (isAnagram(s3, s4)) printf("is Anagram\n");
     else printf("is NOT Anagram\n");
